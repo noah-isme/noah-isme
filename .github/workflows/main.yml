@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # jalan tiap 12 jam, menit ke-00
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,9 +15,7 @@ jobs:
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
-          # ganti ke username kamu kalau perlu
           github_user_name: noah-isme
-          # v3 pakai 'outputs', bukan 'svg_out_path'
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark

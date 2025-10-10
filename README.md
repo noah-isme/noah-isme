@@ -4,7 +4,7 @@ Tip: Simpan aset GIF di ./assets/ (lihat struktur di bawah)
 -->
 
 <!-- Capsule Header (Dark) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=180&section=header&text=Noah%20Isme&fontColor=ffffff&fontSize=48&fontAlignY=35&animation=fadeIn&desc=Builder%20%7C%20Web%20%26%20Cloud%20%7C%20Open%20Source&descAlignY=60)#gh-dark-mode-only
+![header](https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=Hello-nl-Guys&animation=blinking&fontAlign=30,60&fontAlignY=35,55)
 
 <!-- HERO -->
 <h1 align="center">Hi, I’m <a href="https://github.com/noah-isme">Noah</a> 👋</h1>
@@ -95,10 +95,7 @@ Tip: Simpan aset GIF di ./assets/ (lihat struktur di bawah)
 </p>
 
 ## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noah-isme/noah-isme/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/noah-isme/noah-isme/output/github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/noah-isme/noah-isme/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -120,7 +117,7 @@ Tip: Simpan aset GIF di ./assets/ (lihat struktur di bawah)
 ---
 
 <!-- Footer Wave -->
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=140&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=140&text=Thanks!&section=footer)
 
 <sub>Last updated: 2025-10-10</sub>
 

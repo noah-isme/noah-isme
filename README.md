@@ -1,33 +1,36 @@
-<!-- Profile README for github.com/noah-isme -->
+<!--
+README for github.com/noah-isme
+Tip: Simpan aset GIF di ./assets/ (lihat struktur di bawah)
+-->
+
+<!-- Capsule Header (Dark) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=180&section=header&text=Noah%20Isme&fontColor=ffffff&fontSize=48&fontAlignY=35&animation=fadeIn&desc=Builder%20%7C%20Web%20%26%20Cloud%20%7C%20Open%20Source&descAlignY=60)#gh-dark-mode-only
 
 <!-- HERO -->
+<h1 align="center">Hi, I’m <a href="https://github.com/noah-isme">Noah</a> 👋</h1>
+<p align="center">Builder yang suka bikin produk web end-to-end — dari LMS, POS, sampai AI assistant.</p>
 
-<h1 align="center">Hi, I’m Noah 👋</h1>
 <p align="center">
-  Builder yang suka bikin produk web end-to-end — dari LMS, POS, sampai AI assistant.
+  <!-- Hero GIF -->
+  
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY5cnNyeGk4OG0xcmx4MDRsNGp6MDBlNTAxYTh2ejY2cGRxNHliZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12RmDbMsn7LoY0/giphy.gif" alt="Noah coding (dark)" width="640">
 </p>
+
 <p align="center">
-  <a href="https://noahisme.vercel.app">Website</a> •
-  <a href="https://www.linkedin.com/in/noor-wahid">LinkedIn</a>
-  <a href="mailto:noorwahid052002@gmail.com"><img src="https://img.shields.io/badge/Email-contact-orange?logo=gmail" /></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-contact-orange?logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/your-link/"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin" /></a>
+  <a href="https://noahisme.example.com"><img src="https://img.shields.io/badge/Website-visit-0aa?logo=vercel&logoColor=fff" /></a>
   <img src="https://komarev.com/ghpvc/?username=noah-isme&label=Profile%20views" />
 </p>
-<p align="center">
-  <!-- Light mode -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdhbGZsMHp4OW94YnI4N3lkMDhsMGJuYzlpY281OWhzOXhlczNrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/voirD51GFZte0/giphy.gif" alt="Noah coding animation (light)" width="640">
-  <!-- Dark mode -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdhbGZsMHp4OW94YnI4N3lkMDhsMGJuYzlpY281OWhzOXhlczNrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/voirD51GFZte0/giphy.gif" alt="Noah coding animation (dark)" width="640">
-</p>
-
 
 ---
 
 ## 👤 About me
 - 🧭 Focus: **AI Literacy**, **Cloud-native apps**, **Open Source**
-- 🛠️ I enjoy building **clean, typed** codebases and automating boring stuff.
-- 🌱 Currently learning: **Astro/Next.js performance**, **tRPC**, **Supabase/Postgres**, **edge runtimes**
-- 🤝 Open to collaborate on **education tech**, **developer tools**, and **lightweight dashboards**.
-- ⚡ Fun: keyboard nerd, loves minimalist UI, ships small but often.
+- 🛠️ Suka membangun **clean, typed** codebases & mengotomasi hal yang repetitif.
+- 🌱 Belajar: **Astro/Next.js performance**, **tRPC**, **Supabase/Postgres**, **edge runtimes**
+- 🤝 Kolaborasi: **edtech**, **dev tools**, **lightweight dashboards**
+- ⚡ Fun: keyboard nerd, minimal UI, ship kecil tapi sering.
 
 ---
 
@@ -59,14 +62,26 @@
 
 ## 🚀 Featured projects
 
-| Project | 1-liner | Stack | Link |
-|---|---|---|---|
-| **Admin Panel SMA** | Panel absensi & nilai siswa siap produksi dengan RBAC, worker, dan monorepo yang rapi. | NestJS · React Admin (Vite) · BullMQ · Drizzle ORM · Postgres · Redis | 🔗 https://github.com/noah-isme/admin-panel-sma |
-| **Classroom Informatika** | LMS ringan untuk kelas informatika—auth berperan, route App Router, dan pipeline CI lengkap. | Next.js App Router · NextAuth · Prisma · Playwright · Turborepo | 🔗 https://github.com/noah-isme/classroom-informatika |
-| **Kios POS** | POS web untuk retail: kasir end-to-end, struk PDF 58/80 mm, laporan harian, dan role-based access. | Next.js App Router · tRPC · Prisma · Supabase · NextAuth | 🔗 https://github.com/noah-isme/kios-pos |
-| **Emoji Game** | Phaser 3 memory game yang aksesibel + responsive, lengkap power-ups dan unit test. | TypeScript · Vite · Phaser 3 · Vitest | 🔗 https://github.com/noah-isme/emoji-game |
-| **WAHIDA** | Digital assistant edtech: Next.js + FastAPI dengan RAG/FAISS dan roadmap sprint bertahap. | Next.js · FastAPI · Python · FAISS · Docker · Poetry | 🔗 https://github.com/noah-isme/wahida |
-| **GEMA SMAWA** | Platform pembelajaran dengan dashboard siswa/guru, LiveClass (LiveKit), dan integrasi Prisma. | Next.js · Prisma · Playwright · (opsi LiveKit) | 🔗 https://github.com/noah-isme/gema-smawa |
+| Project | Preview | 1-liner | Stack | Link |
+|---|---|---|---|---|
+| **Admin Panel SMA** | <a href="https://github.com/noah-isme/admin-panel-sma"><img src="./assets/previews/admin-panel-sma.gif" alt="Demo Admin Panel SMA" width="320"></a> | Panel absensi & nilai siswa siap produksi dengan RBAC & worker. | NestJS · React Admin · BullMQ · Drizzle · Postgres · Redis | 🔗 https://github.com/noah-isme/admin-panel-sma |
+| **Classroom Informatika** | <a href="https://github.com/noah-isme/classroom-informatika"><img src="./assets/previews/classroom-informatika.gif" alt="Demo Classroom Informatika" width="320"></a> | LMS ringan untuk kelas informatika dengan auth & App Router. | Next.js · NextAuth · Prisma · Playwright · Turborepo | 🔗 https://github.com/noah-isme/classroom-informatika |
+| **Kios POS** | <a href="https://github.com/noah-isme/kios-pos"><img src="./assets/previews/kios-pos.gif" alt="Demo Kios POS" width="320"></a> | POS web: kasir end-to-end, struk PDF, laporan harian. | Next.js · tRPC · Prisma · Supabase · NextAuth | 🔗 https://github.com/noah-isme/kios-pos |
+| **Emoji Game** | <a href="https://github.com/noah-isme/emoji-game"><img src="./assets/previews/emoji-game.gif" alt="Demo Emoji Game" width="320"></a> | Phaser 3 memory game yang aksesibel & responsive. | TypeScript · Vite · Phaser 3 · Vitest | 🔗 https://github.com/noah-isme/emoji-game |
+| **WAHIDA** | <a href="https://github.com/noah-isme/wahida"><img src="./assets/previews/wahida.gif" alt="Demo WAHIDA" width="320"></a> | Digital assistant edtech dengan RAG & FAISS. | Next.js · FastAPI · Python · FAISS · Docker | 🔗 https://github.com/noah-isme/wahida |
+| **GEMA SMAWA** | <a href="https://github.com/noah-isme/gema-smawa"><img src="./assets/previews/gema-smawa.gif" alt="Demo GEMA SMAWA" width="320"></a> | Platform pembelajaran: dashboard siswa/guru & LiveClass. | Next.js · Prisma · Playwright · (LiveKit) | 🔗 https://github.com/noah-isme/gema-smawa |
+
+<details>
+  <summary>🎬 Demos (GIF Gallery)</summary>
+  <p align="center">
+    <img src="./assets/previews/admin-panel-sma.gif" alt="Admin Panel SMA demo" width="420">
+    <img src="./assets/previews/classroom-informatika.gif" alt="Classroom Informatika demo" width="420">
+  </p>
+  <p align="center">
+    <img src="./assets/previews/kios-pos.gif" alt="Kios POS demo" width="420">
+    <img src="./assets/previews/emoji-game.gif" alt="Emoji Game demo" width="420">
+  </p>
+</details>
 
 ---
 
@@ -79,7 +94,17 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah-isme&layout=compact&langs_count=8" />
 </p>
 
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noah-isme/noah-isme/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/noah-isme/noah-isme/output/github-snake.svg" />
+</picture>
+
 ---
+
+## 📝 Latest posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🔄 Recent activity
 <!--RECENT_ACTIVITY:start-->
@@ -88,13 +113,29 @@
 ---
 
 ## 🤝 Let’s connect
-- 💼 LinkedIn: https://www.linkedin.com/in/noor-wahid
-- 🐦 Instagram: https://instagram.com/__noah_is_me
+- 💼 LinkedIn: https://www.linkedin.com/in/noor-wahid/
+- 🐦 instagram: https://instagram.com/__noah_is_me
 - ✉️ Email: noorwahid052002@gmail.com
 
 ---
 
+<!-- Footer Wave -->
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=140&section=footer)
 
----
+<sub>Last updated: 2025-10-10</sub>
 
-<sub>Last updated: <!-- yyyy-mm-dd --> 2025-10-10</sub>
+<!--
+Struktur aset yang disarankan:
+
+noah-isme/
+└─ assets/
+   ├─ hero-light.gif
+   ├─ hero-dark.gif
+   └─ previews/
+      ├─ admin-panel-sma.gif
+      ├─ classroom-informatika.gif
+      ├─ kios-pos.gif
+      ├─ emoji-game.gif
+      ├─ wahida.gif
+      └─ gema-smawa.gif
+-->

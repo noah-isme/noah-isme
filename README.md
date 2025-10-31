@@ -7,30 +7,33 @@ Tip: Simpan aset GIF di ./assets/ (lihat struktur di bawah)
 ![header](https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=Hello-nl-Guys&animation=blinking&fontAlign=30,60&fontAlignY=35,55)
 
 <!-- HERO -->
-<h1 align="center">Hi, I’m <a href="https://github.com/noah-isme">Noah</a> 👋</h1>
-<p align="center">Builder yang suka bikin produk web end-to-end — dari LMS, POS, sampai AI assistant.</p>
+<h1 align="center">Hi, I'm <a href="https://github.com/noah-isme">Noah</a> 👋</h1>
+<p align="center">Full-Stack Web Developer | Backend & Frontend Specialist</p>
+<p align="center">Building digital solutions from Admin Panels, POS Systems, LMS, to AI Assistants</p>
 
 <p align="center">
   <!-- Hero GIF -->
-  
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY5cnNyeGk4OG0xcmx4MDRsNGp6MDBlNTAxYTh2ejY2cGRxNHliZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12RmDbMsn7LoY0/giphy.gif" alt="Noah coding (dark)" width="640">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY5cnNyeGk4OG0xcmx4MDRsNGp6MDBlNTAxYTh2ejY2cGRxNHliZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12RmDbMsn7LoY0/giphy.gif" alt="Noah coding" width="640">
 </p>
 
 <p align="center">
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-contact-orange?logo=gmail" /></a>
+  <a href="mailto:noorwahid052002@gmai.com"><img src="https://img.shields.io/badge/Email-contact-orange?logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/your-link/"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin" /></a>
-  <a href="https://noahisme.example.com"><img src="https://img.shields.io/badge/Website-visit-0aa?logo=vercel&logoColor=fff" /></a>
+  <a href="https://noahis.me"><img src="https://img.shields.io/badge/Website-visit-0aa?logo=vercel&logoColor=fff" /></a>
+  <a href="https://instagram.com/__noah_is_me"><img src="https://img.shields.io/badge/Instagram-DM-E4405F?logo=instagram&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=noah-isme&label=Profile%20views" />
 </p>
 
 ---
 
 ## 👤 About me
-- 🧭 Focus: **AI Literacy**, **Cloud-native apps**, **Open Source**
-- 🛠️ Suka membangun **clean, typed** codebases & mengotomasi hal yang repetitif.
-- 🌱 Belajar: **Astro/Next.js performance**, **tRPC**, **Supabase/Postgres**, **edge runtimes**
-- 🤝 Kolaborasi: **edtech**, **dev tools**, **lightweight dashboards**
-- ⚡ Fun: keyboard nerd, minimal UI, ship kecil tapi sering.
+- 🎓 **Lulusan Teknik Informatika** – Universitas Wahidiyah (2020-2024)
+- 💼 **3+ tahun pengalaman** dalam web development & sistem digital
+- 🧭 Focus: **Full-Stack Development**, **Clean Architecture**, **Performance Optimization**
+- 🛠️ Passion: Membangun **scalable web apps** dengan TypeScript, React, Next.js, Astro
+- 🌱 Currently exploring: **Astro performance**, **Edge Computing**, **AI Integration**
+- 🤝 Open to collaborate on: **Edtech**, **SaaS products**, **Open Source**
+- ⚡ Fun fact: Minimal UI enthusiast, loves vanilla JS optimizations, ships fast & iterates
 
 ---
 
@@ -60,28 +63,125 @@ Tip: Simpan aset GIF di ./assets/ (lihat struktur di bawah)
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Featured Projects
 
-| Project | Preview | 1-liner | Stack | Link |
-|---|---|---|---|---|
-| **Admin Panel SMA** | <a href="https://github.com/noah-isme/admin-panel-sma"><img src="./assets/previews/admin-panel-sma.gif" alt="Demo Admin Panel SMA" width="320"></a> | Panel absensi & nilai siswa siap produksi dengan RBAC & worker. | NestJS · React Admin · BullMQ · Drizzle · Postgres · Redis | 🔗 https://github.com/noah-isme/admin-panel-sma |
-| **Classroom Informatika** | <a href="https://github.com/noah-isme/classroom-informatika"><img src="./assets/previews/classroom-informatika.gif" alt="Demo Classroom Informatika" width="320"></a> | LMS ringan untuk kelas informatika dengan auth & App Router. | Next.js · NextAuth · Prisma · Playwright · Turborepo | 🔗 https://github.com/noah-isme/classroom-informatika |
-| **Kios POS** | <a href="https://github.com/noah-isme/kios-pos"><img src="./assets/previews/kios-pos.gif" alt="Demo Kios POS" width="320"></a> | POS web: kasir end-to-end, struk PDF, laporan harian. | Next.js · tRPC · Prisma · Supabase · NextAuth | 🔗 https://github.com/noah-isme/kios-pos |
-| **Emoji Game** | <a href="https://github.com/noah-isme/emoji-game"><img src="./assets/previews/emoji-game.gif" alt="Demo Emoji Game" width="320"></a> | Phaser 3 memory game yang aksesibel & responsive. | TypeScript · Vite · Phaser 3 · Vitest | 🔗 https://github.com/noah-isme/emoji-game |
-| **WAHIDA** | <a href="https://github.com/noah-isme/wahida"><img src="./assets/previews/wahida.gif" alt="Demo WAHIDA" width="320"></a> | Digital assistant edtech dengan RAG & FAISS. | Next.js · FastAPI · Python · FAISS · Docker | 🔗 https://github.com/noah-isme/wahida |
-| **GEMA SMAWA** | <a href="https://github.com/noah-isme/gema-smawa"><img src="./assets/previews/gema-smawa.gif" alt="Demo GEMA SMAWA" width="320"></a> | Platform pembelajaran: dashboard siswa/guru & LiveClass. | Next.js · Prisma · Playwright · (LiveKit) | 🔗 https://github.com/noah-isme/gema-smawa |
+### 🏢 Enterprise & Admin Systems
 
-<details>
-  <summary>🎬 Demos (GIF Gallery)</summary>
-  <p align="center">
-    <img src="./assets/previews/admin-panel-sma.gif" alt="Admin Panel SMA demo" width="420">
-    <img src="./assets/previews/classroom-informatika.gif" alt="Classroom Informatika demo" width="420">
-  </p>
-  <p align="center">
-    <img src="./assets/previews/kios-pos.gif" alt="Kios POS demo" width="420">
-    <img src="./assets/previews/emoji-game.gif" alt="Emoji Game demo" width="420">
-  </p>
-</details>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏫 Admin Panel SMA</h3>
+      <div align="center">
+        <a href="https://admin-panel-sma-admin.vercel.app" target="_blank">
+          <img src="https://gyyiuhgcbggxzozasfji.supabase.co/storage/v1/object/public/public-assets/noahisme/adp-sma/dasbor.png" width="100%" alt="Admin Panel SMA"/>
+        </a>
+        <br>
+        <p>
+          <a href="https://admin-panel-sma-admin.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>TypeScript · React · Web-based</strong></p>
+        <p>Modern school management system with student attendance tracking and academic grade recording.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎯 Buroq Admin Panel</h3>
+      <div align="center">
+        <a href="https://buroq-new-admin-panel.vercel.app" target="_blank">
+          <img src="https://gyyiuhgcbggxzozasfji.supabase.co/storage/v1/object/public/public-assets/noahisme/buroq/grafikorder.png" width="100%" alt="Buroq Admin Panel"/>
+        </a>
+        <br>
+        <p>
+          <a href="https://buroq-new-admin-panel.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>React 18+ · TypeScript · Vite · Tailwind · Zustand</strong></p>
+        <p>Enterprise operations dashboard with real-time Google Maps tracking and WhatsApp integration.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛒 Kios POS</h3>
+      <div align="center">
+        <a href="https://kios-pos.vercel.app" target="_blank">
+          <img src="https://gyyiuhgcbggxzozasfji.supabase.co/storage/v1/object/public/public-assets/noahisme/kios/dasbor.png" width="100%" alt="Kios POS"/>
+        </a>
+        <br>
+        <p>
+          <a href="https://kios-pos.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>TypeScript · Web-based · Cloud-hosted</strong></p>
+        <p>Cloud-ready POS system with cashier interface, inventory management, and role-based access.</p>
+      </div>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
+
+### 📚 Education & Learning Platforms
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📖 GEMA SMAWA</h3>
+      <div align="center">
+        <a href="https://gema-smawa.vercel.app" target="_blank">
+          <img src="https://gyyiuhgcbggxzozasfji.supabase.co/storage/v1/object/public/public-assets/noahisme/gema/landingpage.png" width="100%" alt="GEMA SMAWA"/>
+        </a>
+        <br>
+        <p>
+          <a href="https://gema-smawa.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Next.js 15 · Tailwind · Prisma · LiveKit</strong></p>
+        <p>Comprehensive digital learning platform with real-time interaction and evaluation tools.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">💡 Classroom Informatika</h3>
+      <div align="center">
+        <p><strong>Next.js · Prisma · NextAuth · Playwright</strong></p>
+        <p>LMS with automated grading and streamlined teacher workflow (2× more classes without overload).</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+### 🎨 Design & User Experience
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4 align="center">🏦 Elysian Bank Mobile</h4>
+      <p align="center"><strong>React Native · TypeScript · Lottie</strong></p>
+      <p>Fintech mobile app with haptic-friendly animations (55% CS ticket reduction, NPS +21).</p>
+    </td>
+    <td width="50%">
+      <h4 align="center">📺 Nebula TV Experience</h4>
+      <p align="center"><strong>Next.js · Astro · GSAP</strong></p>
+      <p>TV streaming with remote-first navigation (28% browsing increase, 19% engagement boost).</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4 align="center">💊 Pulse Health Platform</h4>
+      <p align="center"><strong>Astro · SolidJS · D3</strong></p>
+      <p>Healthcare analytics with progressive visualization (2× faster decisions, 87% adoption).</p>
+    </td>
+    <td width="50%">
+      <h4 align="center">🛍️ Aurora Commerce</h4>
+      <p align="center"><strong>Astro · React · Framer Motion</strong></p>
+      <p>E-commerce checkout redesign (32% faster, 18% conversion increase).</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -91,7 +191,7 @@ Tip: Simpan aset GIF di ./assets/ (lihat struktur di bawah)
   <img height="165" src="https://streak-stats.demolab.com?user=noah-isme" />
 </p>
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah-isme&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noah-isme&show_icons=true&locale=en&layout=compact&langs_count=8" alt="noah-isme" />
 </p>
 
 ## 🐍 Contribution Snake

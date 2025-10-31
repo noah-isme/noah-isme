@@ -89,7 +89,7 @@ Tip: Simpan aset GIF di ./assets/ (lihat struktur di bawah)
       <h3 align="center">🎯 Buroq Admin Panel</h3>
       <div align="center">
         <a href="https://buroq-new-admin-panel.vercel.app" target="_blank">
-          <img src="https://gyyiuhgcbggxzozasfji.supabase.co/storage/v1/object/public/public-assets/noahisme/buroq/grafikorder.png" width="100%" alt="Buroq Admin Panel"/>
+          <img src="https://gyyiuhgcbggxzozasfji.supabase.co/storage/v1/object/public/public-assets/noahisme/buroq/grafikordernew.png" width="100%" alt="Buroq Admin Panel"/>
         </a>
         <br>
         <p>
@@ -144,44 +144,13 @@ Tip: Simpan aset GIF di ./assets/ (lihat struktur di bawah)
         <p>Comprehensive digital learning platform with real-time interaction and evaluation tools.</p>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">💡 Classroom Informatika</h3>
-      <div align="center">
-        <p><strong>Next.js · Prisma · NextAuth · Playwright</strong></p>
-        <p>LMS with automated grading and streamlined teacher workflow (2× more classes without overload).</p>
-      </div>
-    </td>
+    
   </tr>
 </table>
 
-### 🎨 Design & User Experience
+// ### 🎨 Design & User Experience
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4 align="center">🏦 Elysian Bank Mobile</h4>
-      <p align="center"><strong>React Native · TypeScript · Lottie</strong></p>
-      <p>Fintech mobile app with haptic-friendly animations (55% CS ticket reduction, NPS +21).</p>
-    </td>
-    <td width="50%">
-      <h4 align="center">📺 Nebula TV Experience</h4>
-      <p align="center"><strong>Next.js · Astro · GSAP</strong></p>
-      <p>TV streaming with remote-first navigation (28% browsing increase, 19% engagement boost).</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4 align="center">💊 Pulse Health Platform</h4>
-      <p align="center"><strong>Astro · SolidJS · D3</strong></p>
-      <p>Healthcare analytics with progressive visualization (2× faster decisions, 87% adoption).</p>
-    </td>
-    <td width="50%">
-      <h4 align="center">🛍️ Aurora Commerce</h4>
-      <p align="center"><strong>Astro · React · Framer Motion</strong></p>
-      <p>E-commerce checkout redesign (32% faster, 18% conversion increase).</p>
-    </td>
-  </tr>
-</table>
+
 
 ---
 

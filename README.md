@@ -131,12 +131,12 @@ Tip: Simpan aset GIF di ./assets/ (lihat struktur di bawah)
     <td width="50%">
       <h3 align="center">📖 GEMA SMA</h3>
       <div align="center">
-        <a href="https://gema-smawa.vercel.app" target="_blank">
+        <a href="https://gema-sma.tech" target="_blank">
           <img src="https://gyyiuhgcbggxzozasfji.supabase.co/storage/v1/object/public/public-assets/noahisme/gema/landingpage.png" width="100%" alt="GEMA SMAWA"/>
         </a>
         <br>
         <p>
-          <a href="https://gema-smawa.vercel.app" target="_blank">
+          <a href="https://gema-sma.tech" target="_blank">
             <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>

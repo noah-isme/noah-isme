@@ -104,9 +104,9 @@ Tip: Simpan aset GIF di ./assets/ (lihat struktur di bawah)
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🛒 Kios POS</h3>
+      <h3 align="center">🛒 Toko POS</h3>
       <div align="center">
-        <a href="https://kios-pos.vercel.app" target="_blank">
+        <a href="https://toko-pos.vercel.app" target="_blank">
           <img src="https://gyyiuhgcbggxzozasfji.supabase.co/storage/v1/object/public/public-assets/noahisme/kios/dasbor.png" width="100%" alt="Kios POS"/>
         </a>
         <br>

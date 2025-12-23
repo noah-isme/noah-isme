@@ -185,6 +185,7 @@ Tip: Simpan aset GIF di ./assets/ (lihat struktur di bawah)
 - 💼 LinkedIn: https://www.linkedin.com/in/noor-wahid/
 - 🐦 instagram: https://instagram.com/__noah_is_me
 - ✉️ Email: noorwahid052002@gmail.com
+- facebook: https://facebook.com/noahisme717
 
 ---
 

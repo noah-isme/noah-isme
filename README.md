@@ -4,7 +4,7 @@ Tip: Simpan aset GIF di ./assets/ (lihat struktur di bawah)
 -->
 
 <!-- Capsule Header (Dark) -->
-![header](https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=Hello-nl-Guys&animation=blinking&fontAlign=30,60&fontAlignY=35,55)
+![header](https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=Hello-nl-there&animation=blinking&fontAlign=30,60&fontAlignY=35,55)
 
 <!-- HERO -->
 <h1 align="center">Hi, I'm <a href="https://github.com/noah-isme">Noah</a> 👋</h1>
